@@ -1,6 +1,3 @@
-const apiKey = "52d33956d6ca4c1710384e0ed160f140"
-
-const baseURL = "https://api.openweathermap.org/"
 
 
 function weatherSearch (city) {
